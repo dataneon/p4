@@ -1,12 +1,12 @@
 # Brain Sticker
 
 ## Github repos
-https://github.com/dataneon/brainsticker-backend
-https://github.com/dataneon/brainsticker-frontend
+- https://github.com/dataneon/brainsticker-backend
+- https://github.com/dataneon/brainsticker-frontend
 
 ## Deployments
-Frontend: http://brainsticker-frontend.surge.sh/
-Backend: https://brainsticker.herokuapp.com/ (see end points such as `/notes/` and `canvases`)
+- Frontend: http://brainsticker-frontend.surge.sh/
+- Backend: https://brainsticker.herokuapp.com/ (see end points such as `/notes/` and `canvases`)
 
 ## Description
 Brain Sticker is a full-stack app that allows users to brainstorm by sticking notes to a canvas. The notes can created, read, updated, and deleted. The user is able to save their sessions to their accounts.
