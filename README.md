@@ -49,6 +49,7 @@ First `git clone` the backend: https://github.com/dataneon/brainsticker-backend
 - Revert to commit `7e8214ff52`
 - Install psql
 - Run `pipenv shell`
+- Run `pipenv install`
 - Run `psql -U postgres -f settings.sql`
 - Run `python3 manage.py makemigrations`
 - Run `python3 manage.py migrate`
