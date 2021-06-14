@@ -1,7 +1,8 @@
 # Brain Sticker
 
-## Github link with all data
-https://github.com/dataneon/p4
+## Github repos
+https://github.com/dataneon/brainsticker-backend
+https://github.com/dataneon/brainsticker-frontend
 
 ## Deployments
 Frontend: http://brainsticker-frontend.surge.sh/
